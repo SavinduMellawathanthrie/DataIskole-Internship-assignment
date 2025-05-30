@@ -33,3 +33,49 @@ You can freely modify the .csv files outside the app if needed, just make sure t
 You can Modify the code not to accept duplicate values.
 
  
+--------------------------------------------Sample Output----------------------------------------------
+
+--- MENU ---
+1. Show summary
+2. Find a superhero
+3. Add new superhero
+4. Remove a superhero
+5. Exit
+Enter option: 1
+Total superheroes: 11
+Total connections: 42
+
+Superheroes added in the last 3 days:
+
+Top 3 most connected superheroes:
+- Spider-Man: 10 friends
+- Captain America: 10 friends
+- Iron Man: 9 friends
+
+--- MENU ---
+1. Show summary
+2. Find a superhero
+3. Add new superhero
+4. Remove a superhero
+5. Exit
+Enter option: 2
+Enter superhero name: Dataiskole
+
+Superhero 'dataiskole' was added on: 2025-05-26
+Friends:
+- Spider-Man
+- Captain America
+- Scarlet Witch
+
+--- MENU ---
+1. Show summary
+2. Find a superhero
+3. Add new superhero
+4. Remove a superhero
+5. Exit
+Enter option: 5
+Exiting...
+
+Process finished with exit code 0
+
+---------------------------------Sample Output------------------------------------------
